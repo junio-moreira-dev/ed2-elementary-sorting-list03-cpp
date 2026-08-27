@@ -14,11 +14,11 @@ Exercícios de fixação de **Estrutura de Dados II** — Algoritmos de ordenaç
 ```
 ed2-sorting-list03-cpp/
 └── src/
-    ├── Exer01_BubbleSortCountSwaps.cpp
-    ├── Exer02_SelectionSortKSmallest.cpp
-    ├── Exer03_InsertionSortKSortedCountComparisons.cpp
-    ├── Exer04_BubbleSortParitySort.cpp
-    └── Exer05_InsertionSortCountInversions.cpp
+│   ├── Exer01_BubbleSortCountSwaps.cpp
+│   ├── Exer02_SelectionSortKSmallest.cpp
+│   ├── Exer03_InsertionSortKSortedCountComparisons.cpp
+│   ├── Exer04_BubbleSortParitySort.cpp
+│   └── Exer05_InsertionSortCountInversions.cpp
 ├── .gitignore
 ├── CMakeLists.txt
 ├── main.cpp
